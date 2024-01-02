@@ -23,6 +23,8 @@ Si deseas contribuir o tienes sugerencias para mejorar este repositorio, no dude
 
 ---
 
+
+
 ## Description (English 🇬🇧/🇺🇸)
 This repository hosts the material and projects developed during the Data Science Bootcamp at SoyHenry. Here you will find analyses, visualizations, and predictive models related to various datasets.
 
