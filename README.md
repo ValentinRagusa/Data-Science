@@ -1,6 +1,6 @@
 # Data Science Bootcamp
-Español 🇦🇷/🇪🇸
-## Descripción
+
+## Descripción (Español 🇦🇷/🇪🇸)
 Este repositorio alberga el material y los proyectos desarrollados durante el Bootcamp de Data Science en SoyHenry. Aquí encontrarás análisis, visualizaciones y modelos predictivos relacionados con diversos conjuntos de datos.
 
 ## Estructura del Repositorio
@@ -23,9 +23,7 @@ Si deseas contribuir o tienes sugerencias para mejorar este repositorio, no dude
 
 ---
 
-# English 🇬🇧/🇺🇸
-
-## Description
+## Description (English 🇬🇧/🇺🇸)
 This repository hosts the material and projects developed during the Data Science Bootcamp at SoyHenry. Here you will find analyses, visualizations, and predictive models related to various datasets.
 
 ## Repository Structure
